@@ -40,7 +40,9 @@
 
 
 
+## Summary
 
- 
+    I do not think that there is much bias when it comes to the electronic products. Most of the reviews are 
+    Non-Vine and unpaid so I believe that they are honest reviews. 
 
 

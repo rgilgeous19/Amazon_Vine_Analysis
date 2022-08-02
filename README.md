@@ -27,6 +27,18 @@
  - There were 23,043 five star Non-Vine reviews.  
     
     ![number of non-vine 5 star reviews](https://user-images.githubusercontent.com/103302566/182495377-49905f0e-f399-46cb-8dec-b6786bea84fe.png)
+    
+ 
+ - 42.04% of the Vine reviews were five star.
+    
+    ![% of vine 5 star reviews](https://user-images.githubusercontent.com/103302566/182495526-5d34b83c-a9db-4215-9ada-4cdedaefc219.png)
+    
+    
+ - 46.39% if the Non-Vine reviews were five star.
+    
+    ![% of non-vine 5 star reviews](https://user-images.githubusercontent.com/103302566/182495609-5f3362c8-ea49-4709-94dc-73ffab0aece6.png)
+
+
 
 
  
